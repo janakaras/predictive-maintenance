@@ -1,4 +1,4 @@
-# predictive-maintenance
+# Predictive Maintenance
 
 ## Overview
 * Machine Learning Project for Data Science course @unibz. 
@@ -28,5 +28,5 @@
 
 ![grafik](https://user-images.githubusercontent.com/94690242/187026618-ca4b69e9-1279-4609-8682-b7564b016b18.png)
 
-
+Check out the full project by downloading the HTML-Report: https://github.com/janakaras/predictive-maintenance/blob/main/Machine%20Predictive%20Maintenance%20Classification.html. 
 
